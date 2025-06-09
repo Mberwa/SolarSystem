@@ -6,6 +6,7 @@ public class SolarSystem {
         bs.moon = "Moon";
         bs.sun = "Solar System Sun";
         System.out.println("Planet: " + bs.plannet);
+        System.out.println("Star: " + bs.star);
 
     }
 
